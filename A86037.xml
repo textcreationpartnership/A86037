@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A glorious victory, obtained by S. Henry Tichbourne, and Captaine Marroe over the rebels, at a place called Dundalke neere Dublin; with the number of men slaine and taken prisoners in that skirmish. Amongst the rest Sir Philome O Neale, narrowly escaping fled to Newry, whither Sir Henry with a new supply of 600. soldiers is now gone. Also how the Lord MacGuere was examined, and three of his footmen hanged. With many other very remarkable passages, brought over by the last post. With an order of the House of Commons, concerning the free offer of 6000. li. of the county of Buckingham, towards the reliefe of Ireland. Ordered forthwith to be printed. H. Elsinge, Cleric Parli. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86037</idno>
+            <idno type="STC">Wing G869</idno>
+            <idno type="STC">Thomason E143_9</idno>
+            <idno type="STC">ESTC R12349</idno>
+            <idno type="EEBO-CITATION">99859265</idno>
+            <idno type="PROQUEST">99859265</idno>
+            <idno type="VID">156600</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86037)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156600)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E143[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A glorious victory, obtained by S. Henry Tichbourne, and Captaine Marroe over the rebels, at a place called Dundalke neere Dublin; with the number of men slaine and taken prisoners in that skirmish. Amongst the rest Sir Philome O Neale, narrowly escaping fled to Newry, whither Sir Henry with a new supply of 600. soldiers is now gone. Also how the Lord MacGuere was examined, and three of his footmen hanged. With many other very remarkable passages, brought over by the last post. With an order of the House of Commons, concerning the free offer of 6000. li. of the county of Buckingham, towards the reliefe of Ireland. Ordered forthwith to be printed. H. Elsinge, Cleric Parli. Com.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 6 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for John Wright,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Woodcut illus. on t.p.</note>
+                  <note>Chiefly concerns the military action of 26 March 1642.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Enniskillen, Connor Maguire, --  Baron of, 1616-1645.</term>
+               <term>Marro, --  Captain.</term>
+               <term>O'Neill, Phelim, --  Sir, 1604?-1653.</term>
+               <term>Tichborne, Henry, --  Sir, 1581?-1667.</term>
+               <term>Dundalk (Louth) --  History, Military.</term>
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156600:1" rendition="simple:additions"/>
+            <p> 
+               <hi>Aprill the</hi> 15. 1642.</p>
+            <p>A glorious Victory, obtained by S. <hi>Henry Tichbourne,</hi> and Captaine <hi>Marroe</hi> over the Rebels, at a place called <hi>Dundalke</hi> neere <hi>Dubl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n;</hi> with the num<g ref="char:EOLhyphen"/>ber of men ſlaine and taken priſoners in that skir<g ref="char:EOLhyphen"/>miſh. Amongſt the reſt Sir <hi>Philome O Neale,</hi> nar<g ref="char:EOLhyphen"/>rowly eſcaping, fled to <hi>Newry,</hi> whither Sir <hi>Henry</hi> with a new ſupply of 600. Soldiers is now gone.</p>
+            <p>Alſo how the Lord <hi>Mac Guere</hi> was examined, and three of his Footmen hanged. With many other very remarkable paſſages, brought over by the laſt Poſt.</p>
+            <p>With an Order of the Houſe of Commons, concerning the free offer of 6000. <hi>li.</hi> of the County of <hi>Buckingham,</hi> towards the reliefe of <hi>Ireland.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Ordered forthwith to be Printed.</p>
+                  <closer>
+                     <signed>H. Elſinge, Cleric Parli. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <figure>
+               <figDesc>woodcut of cannoneer firing cannon</figDesc>
+            </figure>
+            <p>Printed at London for John Wright, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:156600:2"/>
+            <pb n="i" facs="tcp:156600:2"/>
+            <head>NEWES FROM IRELAND.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>SIn<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e my laſt letter, you may be pleaſed to take notice of theſe particulars.</p>
+            <p>On Monday morning came three Gentlemen to our City of <hi>Dublin</hi> from Sir <hi>Henry Tichbourne,</hi> who brought a Meſſage to the State, of agreat and happy victory obtained by the aforeſaid Sir <hi>Henry</hi> againſt the Rebels in this manner following. The weeke be<g ref="char:EOLhyphen"/>fore Sir <hi>Henry Tichbourne</hi> with 2000 horſe and foot marched to <hi>Ardee,</hi> and there put 400 of the Rebels to the ſword, yet loſt not one man of our ſide; from thence upon the Saturday following, he muſtered up his Forces againſt a place called <hi>Dundalke,</hi> ſome 14 miles northward from <hi>Tredath,</hi> where the enemy was 5000 ſtrong, and well fortified; At his firſt approach there iſſued out of the Towne 3000 of the Rebels, who all preſented themſelves in Battali<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, our For<g ref="char:EOLhyphen"/>lorne hopes of horſe and foot, had no ſooner fired upon them, but they routed the Rebels; Captaine <hi>Marro's</hi> Troope of horſe ſetting on, killd great ſtore
+<pb n="2" facs="tcp:156600:3"/> of the Rebels, who thereupon retreated to the Town, made faſt the Gates, and ran out at the other end to their boats, beforehand provided; our Army comming in fired the Gates, entred, and killed thoſe within, Captaine <hi>Marroe</hi> followed the flying foe, and ſlew aboundance of them upon the ſtrand, and it is reporte<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by them, that if he had known the Foards and the River, he had cut them all off if he had gained the other ſide of the River, but being a ſtranger, could not doe it (wanting a guide) without endan<g ref="char:EOLhyphen"/>gering the Troope: There was ſlaine of the Rebels in this ſudden skirmiſh not leſſe then 1100, beſides what they tooke priſoners. Sir <hi>Philomy O Neale</hi> fled with the reſt of the Commanders; but 10 common Souldiers were loſt of our ſide; Sir <hi>Philomy O Neale</hi> made ſpeed away to a place called <hi>Newry,</hi> a chiefe Garriſon of the Rebels. Sir <hi>Henry Tichbourne</hi> hath ſent 600 men more to <hi>Dublin,</hi> intending that place ſhall be the next he begings withall, which is gran<g ref="char:EOLhyphen"/>ted, and to morrow there goeth to him 500 men, if not 5000, for whoſe ſafety and proſperity in the meane time, is the ſubject of our daily prayers that he may have as good ſucceſſe, as in all his other de<g ref="char:EOLhyphen"/>ſignes from the firſt till this time; for no man was ever ſo beloved by his Soldiers, that proteſt to fol<g ref="char:EOLhyphen"/>low him while they can ſtand. Wee are in great hope hee will recover the <hi>Newry,</hi> very ſhortly; it is credibly reported, that they got 20000 pounds at leaſt in pillage at <hi>Dundalke.</hi> The Lord make us thankefull for this weekely good newes, and con<g ref="char:EOLhyphen"/>tinue
+<pb n="3" facs="tcp:156600:3"/> the ſame to his glory, and the good of his Church.</p>
+            <p>On Friday laſt in the afternoone one <hi>Barwell</hi> of <hi>Kilbrew,</hi> a Gentleman of the Pale of ſome eſtate, was racked, and confeſt enough to hang himſelfe and others of his friends: upon the ſame day the Engliſh Souldiers entred a Maſſe-houſe where they were at Maſſe, tooke away their maſſing implements and ſtript their Prieſt; wee had newes that day alſo, that in the North about <hi>Donne,</hi> the Rebels killed moſt of the Engliſh priſoners they had, and fired the Towne.</p>
+            <p>Upon Saturday wee heard newes that the Lord <hi>Crunwels</hi> Troop in the North had killed ſome 60 of the Rebels; that day had wee newes of the Earle of <hi>Roſcommons</hi> death, the Earledome is fallen to the Lord <hi>Dillon</hi> his ſon a Proteſtant.</p>
+            <p>Alſo wee had newes that the great Rebell Lord <hi>Mongarrat</hi> was ſicke; the Counteſſe of <hi>Ormond</hi> and her children were ſent for by Sea to a place called <hi>Carucke,</hi> the Rebels will part with her, but not with her children, but ſhee will ſtay, except ſhee may have her children with her, a good woman ſhe is, and is reported, that before the Rebels tooke poſſeſſion of her Caſtle at <hi>Kilbenny,</hi> wherein was 10 large and ſmall braſſe Peeces, ſhe hath ſo conveyed them away, that the Rebels cannot at all as yet find them, on that day alſo the Lord <hi>Mac Guier</hi> was examined, and three of his footmen hanged.</p>
+            <p>Tueſday following, on the 29, we had a meſſenger
+<pb n="4" facs="tcp:156600:4"/> that brought ſad newes out of the Kings County, that t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Rebels under the command of the Lord <hi>Demſie,</hi> h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d brought a great Peece againſt the Caſtle called <hi>Gaſs<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll,</hi> wherein was all the Lord <hi>Digbies</hi> Children, and the Lady <hi>Offalia,</hi> they tooke the Caſtle and put a great part of them to the ſword, and the Lady and the Lord <hi>Digbies</hi> Children are taken priſoners. This was done on the 25. of <hi>March;</hi> very ſad newes it was to us, for this Caſtle held out from the beginning as many more had there abouts, which is feared will be now all taken, and a great fault of this was for want of pay for our Souldiers, which hath ſtayed the jour<g ref="char:EOLhyphen"/>ney of our Army, which have beene going that way theſe three weekes, nothing but want of pay hindring them if you will tell it to Maſter <hi>Woodward</hi> you may, but it will be ſad newes for both my ſelfe, and he loſt goods and friends there.</p>
+            <p>We had the ſame day alſo newes, that a ſtrong Caſtle in <hi>Wicklow</hi> called <hi>Carnow,</hi> that had held out from the beginning, was now becauſe of their ex<g ref="char:EOLhyphen"/>treame diſtreſſe forced to yeeld it up upon quarter, at ſome of their lives.</p>
+            <p>On the next day we had againe newes, that the Caſtle of <hi>Gaſſell</hi> was onely hard beſieged, and not ta<g ref="char:EOLhyphen"/>ken as it was reported, but could not well hold out, if ſome ſpeedy ſupply were not ſent.</p>
+            <p>The Rebels are gathered into a great body, ſome ſix miles of <hi>Dublin,</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t a place called <hi>Leſlop,</hi> and ano<g ref="char:EOLhyphen"/>ther great body of them on <hi>Wicklow</hi> ſide, ſome 12. miles of us, toward the King and Queenes Coun<g ref="char:EOLhyphen"/>tie.</p>
+            <pb n="5" facs="tcp:156600:4"/>
+            <p> What their intent is we yet know not.</p>
+            <p>I have no more at this preſent to informe you of, but all our loves to all our Friends, praying for the ſetling of peace and unity amongſt you, and that it would pleaſe God to grant us that happineſſe to hear of the healing of thoſe diſtractions in your parts, till the next weeke I reſt,</p>
+            <closer>
+               <dateline>
+                  <hi>Dublin,</hi> 
+                  <date>
+                     <hi>the</hi> 10. of <hi>Aprill.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="part">
+            <opener>
+               <dateline>
+                  <date>Die Sabbati. 9. April. 1642.</date>
+               </dateline>
+            </opener>
+            <p>WHereas the Gentlemen of the County of <hi>Buck<g ref="char:EOLhyphen"/>ingham,</hi> have offered unto this houſe freely, to lend ſix thouſand pounds upon the Act of Contribution for the affaires of <hi>Ireland,</hi> and to pay in the ſame before the first day of <hi>May</hi> next enſuing; This houſe doth take in very good part that offer, and accept the ſame, and doth hereby Order, that the ſaid ſix thouſand pounds ſhall be repayed out of the firſt monies that ſhall be raiſed in that County upon the Bill of foure hundred thouſand pounds, and Maſter <hi>Hampden,</hi> Maſter <hi>Goodwyn,</hi> Maſter <hi>Winwood,</hi> Maſter <hi>Whit<g ref="char:EOLhyphen"/>locke,</hi> are appoynted to returne thanks to the County of <hi>Buck.</hi> from this houſe for their kind offer and acceptable ſervice.</p>
+            <p>And it is further Ordered and declared by this houſe, that if any other County, or perſons ſhall doe the like, the ſame will be taken as a very good ſervice to the Common<g ref="char:EOLhyphen"/>wealth,
+<pb n="6" facs="tcp:156600:5"/> and ſuch as will be well accepted by this houſe, and the m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nies which they ſhall lend, ſhall be repayed unto them with intereſt, if they deſire it, out of the monies that ſhall be raiſed in thoſe Counties where ſuch perſons inhabite, out of the Bill of foure hundred thouſand pounds.</p>
+            <p>And it is further ordered, that this Order ſhall bee forthwith Printed.</p>
+            <closer>
+               <signed>H. Elſing. Cler. Parl. Com.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
